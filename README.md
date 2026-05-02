@@ -9,8 +9,8 @@ From Dream Degree to Smart Financing — One Intelligent Platform
 
 🚀 Live Demo
 
-- Frontend: https://pathwayai-YOUR_USERNAME.vercel.app
-- Backend API: https://pathwayai-backend.onrender.com/docs
+- Frontend: https://pathwayai-nu.vercel.app
+- Backend API: https://pathwayai-backend-bknm.onrender.com/docs
 
 ---
 
@@ -105,4 +105,4 @@ FRONTEND_URL=http://localhost:5173
 
 📄 License
 
-Developed for TenzorX 2026 Hackathon.
+Developed for TenzorX 2026 Hackathon.gu
