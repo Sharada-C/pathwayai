@@ -105,4 +105,4 @@ FRONTEND_URL=http://localhost:5173
 
 📄 License
 
-Developed for TenzorX 2026 Hackathon.gu
+Developed for TenzorX 2026 Hackathon.
