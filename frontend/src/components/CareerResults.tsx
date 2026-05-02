@@ -1,5 +1,5 @@
 import { useStore } from '../store/userStore'
-import { MapPin, TrendingUp, Award, ExternalLink } from 'lucide-react'
+import { ExternalLink } from 'lucide-react'
 import api from '../api/client'
 import { useState } from 'react'
 import toast from 'react-hot-toast'
